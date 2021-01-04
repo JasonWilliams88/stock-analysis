@@ -3,7 +3,7 @@
 ---
 ### Excel Link
 
-[VBA_Challenge_2017.png](https://github.com/JasonWilliams88/stock-analysis/blob/main/VBA_Challenge.xlsm)
+[VBA_Challenge](https://github.com/JasonWilliams88/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 ---
 # Overview
