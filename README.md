@@ -35,8 +35,16 @@ New code for 2018
 ![2018New](https://github.com/JasonWilliams88/stock-analysis/blob/main/2018New.png)
 
 
-Main change from refactoring code
+Main change from refactoring code.
+
 ![VariableArray.png](https://github.com/JasonWilliams88/stock-analysis/blob/main/VariableArray.png)
 
 ---
 ## Summary
+
+#advantages/disadvantages in general of refactoring
+Also by refactoring code we saved man hours writing the code and headache of troubleshooting an entirely new line of code.
+
+#advantages/disadvantages of refactoring the current code
+The refactoring of the code decreased the time the code ran 5 times faster greatly increasing its efficiency.
+This time savings will be more obvious when running the code for the entire stock market as opposed to the 12 we observed today.
