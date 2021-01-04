@@ -1,8 +1,8 @@
 # stock-analysis
-Hub of yearly stocks markets trends using refactored code.
+##Hub of yearly stocks markets trends using refactored code.
 ---
 ---
-## Overview
+# Overview
 The following code uses arrays to analyze stock market trends on a per a year bases.
 The stock market ticker, yearly volume, and the percent change in the stock is returned.
 The code contains formatting and use of use additions.
@@ -40,11 +40,17 @@ Main change from refactoring code.
 ![VariableArray.png](https://github.com/JasonWilliams88/stock-analysis/blob/main/VariableArray.png)
 
 ---
-## Summary
+## Summary/Analysis
 
 #advantages/disadvantages in general of refactoring
-Also by refactoring code we saved man hours writing the code and headache of troubleshooting an entirely new line of code.
+
+By refactoring code we saved man hours writing the code and headache of troubleshooting an entirely new code.
+Issues can stem from old variable being left in the code resulting in troubleshooting.
 
 #advantages/disadvantages of refactoring the current code
+
 The refactoring of the code decreased the time the code ran 5 times faster greatly increasing its efficiency.
 This time savings will be more obvious when running the code for the entire stock market as opposed to the 12 we observed today.
+The old code was inefficient because we needed to loop through the entire code for every stock ticker. 
+Using the variable arrays linked above, we were able to store the total, start, and end values in created variable arrays going through the data set once.
+The tickerIndex variable gave us a way to access the stored info
