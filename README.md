@@ -21,12 +21,15 @@ Outputs for stocks in 2018
 Original code for 2017
 
 ![2017Old](https://github.com/JasonWilliams88/stock-analysis/blob/main/2017Old.png)
+
 Original code for 2018
 
 ![2018Old](https://github.com/JasonWilliams88/stock-analysis/blob/main/2018Old.png)
+
 New code for 2017
 
 ![2017New](https://github.com/JasonWilliams88/stock-analysis/blob/main/2017New.png)
+
 New code for 2018
 
 ![2018New](https://github.com/JasonWilliams88/stock-analysis/blob/main/2018New.png)
