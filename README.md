@@ -53,4 +53,4 @@ The refactoring of the code decreased the time the code ran 5 times faster great
 This time savings will be more obvious when running the code for the entire stock market as opposed to the 12 we observed today.
 The old code was inefficient because we needed to loop through the entire code for every stock ticker. 
 Using the variable arrays linked above, we were able to store the total, start, and end values in created variable arrays going through the data set once.
-The tickerIndex variable gave us a way to access the stored info
+The tickerIndex variable gave us a way to access the stored info.
