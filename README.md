@@ -36,7 +36,7 @@ New code for 2018
 
 
 Main change from refactoring code
-![Variable_Array.png](https://github.com/JasonWilliams88/stock-analysis/blob/main/Variable_Array.png)
+![VariableArray.png](https://github.com/JasonWilliams88/stock-analysis/blob/main/VariableArray.png)
 
 ---
 ## Summary
