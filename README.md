@@ -1,5 +1,5 @@
 # stock-analysis
-hub of stocks markets trends
+Hub of yearly stocks markets trends using refactored code.
 ---
 ---
 ## Overview
