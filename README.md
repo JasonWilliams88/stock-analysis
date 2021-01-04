@@ -35,8 +35,8 @@ New code for 2018
 ![2018New](https://github.com/JasonWilliams88/stock-analysis/blob/main/2018New.png)
 
 
-The biggest
-
+Main change from refactoring code
+![Variable_Array.png](https://github.com/JasonWilliams88/stock-analysis/blob/main/Variable_Array.png)
 
 ---
 ## Summary
